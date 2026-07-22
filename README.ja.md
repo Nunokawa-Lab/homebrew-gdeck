@@ -8,6 +8,7 @@
 
 ```bash
 brew tap Nunokawa-Lab/gdeck
+brew trust Nunokawa-Lab/gdeck   # Homebrew 6.0以降
 brew install gdeck
 ```
 

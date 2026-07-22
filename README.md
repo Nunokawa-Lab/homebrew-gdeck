@@ -8,6 +8,7 @@ Homebrew tap for [gdeck](https://github.com/Nunokawa-Lab/gdeck) — a lightweigh
 
 ```bash
 brew tap Nunokawa-Lab/gdeck
+brew trust Nunokawa-Lab/gdeck   # Homebrew 6.0+
 brew install gdeck
 ```
 
