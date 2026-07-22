@@ -1,3 +1,5 @@
+**English** | [日本語](README.ja.md)
+
 # homebrew-gdeck
 
 Homebrew tap for [gdeck](https://github.com/Nunokawa-Lab/gdeck) — a lightweight API testing tool with CLI and TUI.
