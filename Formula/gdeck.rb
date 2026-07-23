@@ -4,9 +4,9 @@ class Gdeck < Formula
   url "https://github.com/Nunokawa-Lab/gdeck/archive/refs/tags/v0.1.2.tar.gz"
   # Compute the SHA-256 of the downloaded tarball and record it here.
   # Homebrew verifies the recorded checksum against the downloaded file to detect tampering.
-  sha256 "8c70533f18392b1a4641f892df589c36f34eea6f8ed8c2415e5c37751b04d1e6"
+  sha256 "81e59aaaaddf46ef9e8b77d200abb6c4d853244667531676e3159e43e4d625e2"
   license "MIT"
-  version "0.1.2"
+  version "0.1.3-beta"
 
   depends_on "go" => :build
 
