@@ -12,11 +12,20 @@ brew trust Nunokawa-Lab/gdeck   # Homebrew 6.0+
 brew install gdeck
 ```
 
+# homebrew-gdeck
+Homebrew tap for [gdeck](https://github.com/Nunokawa-Lab/gdeck).
+## Installation (macOS)
+```bash
+brew tap Nunokawa-Lab/gdeck
+brew install --cask gdeck
+```
+Linux users: see the main repository for go install or binary download.
+
 ## Upgrade
 
 ```bash
 brew update
-brew upgrade gdeck
+brew upgrade --cask gdeck
 ```
 
 ## Uninstall
